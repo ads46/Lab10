@@ -1,0 +1,41 @@
+* {
+  box-sizing:border-box;
+}
+
+.left {
+  /*
+  set background-color to #2196F3;
+  set padding to 20px;
+   float element to left;
+   set with to 20%
+  */
+}
+
+.main {
+  /*
+  set background-color to #f1f1f1;
+  set padding to 20px;
+  float element to left;
+  set width to 60%;
+ */
+}
+
+.right {
+  /*
+  set  background-color to #4CAF50;
+  set padding to 20px;
+  float element to left;
+  set width to 20%;
+  */
+}
+
+/* Use a media query to add a break point at 800px: */
+@media screen and (max-width:800px) {
+    /*
+    set width of .left, .main, .right class to 100%;
+    */
+
+
+    /* The width is 100%, when the viewport is 800px or smaller */
+
+}
