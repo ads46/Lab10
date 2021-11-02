@@ -3,30 +3,27 @@
 }
 
 .left {
-  /*
-  set background-color to #2196F3;
-  set padding to 20px;
-   float element to left;
-   set with to 20%
-  */
+  background-color: #2196F3;
+  padding: 20px;
+  float: left;
+  width: 20%;
+
 }
 
 .main {
-  /*
-  set background-color to #f1f1f1;
-  set padding to 20px;
-  float element to left;
-  set width to 60%;
- */
+  background-color: #f1f1f1;
+  padding: 20px;
+  float: left;
+  width: 60%
+
 }
 
 .right {
-  /*
-  set  background-color to #4CAF50;
-  set padding to 20px;
-  float element to left;
-  set width to 20%;
-  */
+  background-color: #4CAF50;
+  padding: 20px;
+  float: left;
+  width: 20%
+
 }
 
 /* Use a media query to add a break point at 800px: */
